@@ -32,6 +32,6 @@ THEN the saved events persist
 The following image shows the web application's appearance and functionality:
 
 
-Live: 
+Live: https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/
 
 Repo:
