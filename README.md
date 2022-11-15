@@ -34,4 +34,5 @@ The following image shows the web application's appearance and functionality:
 
 Live: https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/
 
-Repo:
+Repo: https://github.com/alirudnick/Work-Day-Scheduler_Rudnick
+
