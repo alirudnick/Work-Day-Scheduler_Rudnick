@@ -31,6 +31,9 @@ THEN the saved events persist
 
 The following image shows the web application's appearance and functionality:
 
+<img width="1440" alt="Screen Shot 2022-11-14 at 5 55 33 PM" src="https://user-images.githubusercontent.com/107882457/201812829-a3fe20c2-fb75-47f9-aa72-0a5f76606094.png">
+
+
 
 Live: https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/
 
